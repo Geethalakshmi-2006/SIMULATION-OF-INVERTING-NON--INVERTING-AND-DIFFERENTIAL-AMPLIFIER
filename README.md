@@ -20,7 +20,8 @@ SOFTWARE REQUIRED:
 <img width="1600" height="365" alt="image" src="https://github.com/user-attachments/assets/ea981e48-6788-4619-8577-298a46c8cb62" />
 
 ## CIRCUIT DIAGRAM: Non inverting amplifier:
-<img width="1164" height="968" alt="image" src="https://github.com/user-attachments/assets/bc60a201-391c-4468-86fa-a042bf1703d5" />
+<img width="1318" height="994" alt="image" src="https://github.com/user-attachments/assets/b5f59a36-2d30-4e79-b24f-c847172f7ad2" />
+
 
 ## GRAPH: Non inverting amplifier:
 <img width="1600" height="394" alt="image" src="https://github.com/user-attachments/assets/08e53ca3-b591-43d9-8fe3-69339591c76e" />
